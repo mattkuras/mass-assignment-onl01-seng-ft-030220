@@ -6,7 +6,7 @@ class Person
 
 attributes = {:name => "matt", :hair_color => "brown", :eye_color => "green", :handed = >"right"}
   
-  def initialize(hash)
+  def initialize(:name, )
 end
   
 end
