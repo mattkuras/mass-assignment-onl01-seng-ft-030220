@@ -6,7 +6,7 @@ class Person
 
 attributes = {:name => "matt", :hair_color => "brown", :eye_color => "green", :handed = >"right"}
   
-  def initialize(:name, )
+  def initialize(:name, :hair_color, :eye_color, :handed)
 end
   
 end
